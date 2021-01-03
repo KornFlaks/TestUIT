@@ -1,0 +1,24 @@
+.TopBarButton
+{
+    position: absolute;
+    width: 124px;
+    height: 72px;
+}
+.TopBarButtonHeaderText
+{
+    position: absolute;
+    -unity-text-align: middle-center;
+    font-size: 14px;
+    height: 20px;
+    width: 100%;
+    color: yellow;
+}
+
+#ClickDetection
+{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
